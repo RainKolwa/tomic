@@ -1,0 +1,24 @@
+{
+  "name": "tomic",
+  "version": "1.0.0",
+  "description": "> Have Fun!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RainKolwa/tomic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RainKolwa/tomic/issues"
+  },
+  "homepage": "https://github.com/RainKolwa/tomic#readme",
+  "devDependencies": {
+    "eslint": "^3.2.2",
+    "eslint-config-google": "^0.6.0"
+  }
+}
